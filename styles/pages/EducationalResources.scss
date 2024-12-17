@@ -1,0 +1,48 @@
+.blogCard {
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    transform-style: preserve-3d;
+    perspective: 1000px;
+    
+    &:hover {
+        transform: translateY(-12px) rotateX(4deg) rotateY(2deg);
+        box-shadow: 
+            20px 20px 60px rgba(0, 0, 0, 0.1),
+            -20px -20px 60px rgba(255, 255, 255, 0.8);
+        
+        .title {
+            transform: translateZ(20px);
+        }
+        
+        .description {
+            transform: translateZ(10px);
+        }
+        
+        .readMoreBtn {
+            transform: translateZ(30px);
+        }
+    }
+
+    .title, .description, .readMoreBtn {
+        transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .title {
+        margin-bottom: 5px;
+    }
+
+    .description {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2; 
+    }
+
+    .MuiCardActions-root {
+        float: right;
+
+        button {
+            font-weight: bold;
+        }
+    }
+}
