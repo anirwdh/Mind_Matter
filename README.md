@@ -1,5 +1,14 @@
-# Mind Matter  
+# Mind Matter
+<img width="1617" alt="Screenshot 2024-12-17 at 6 04 58 PM" src="https://github.com/user-attachments/assets/f8368c09-444d-4ca1-8576-ba4631bf4a19" />
+
+
 <img width="1617" alt="Screenshot 2024-12-17 at 6 05 27 PM" src="https://github.com/user-attachments/assets/c498b07c-f708-48f6-b015-479904fea679" />
+<img width="1617" alt="Screenshot 2024-12-17 at 6 06 49 PM" src="https://github.com/user-attachments/assets/acda0117-17b8-49e0-a63a-edc357d8c87f" />
+<img width="1617" alt="Screenshot 2024-12-17 at 6 06 01 PM" src="https://github.com/user-attachments/assets/0fbb43c9-3e46-41ef-bd30-c305f1b76503" />
+<img width="1617" alt="Screenshot 2024-12-17 at 6 08 23 PM" src="https://github.com/user-attachments/assets/af523105-76e4-41e2-b860-8ae7fae42632" />
+
+
+
 
 
 ## Overview
