@@ -1,4 +1,5 @@
 # Mind Matter  
+<img width="1617" alt="Screenshot 2024-12-17 at 6 05 27 PM" src="https://github.com/user-attachments/assets/c498b07c-f708-48f6-b015-479904fea679" />
 
 
 ## Overview
